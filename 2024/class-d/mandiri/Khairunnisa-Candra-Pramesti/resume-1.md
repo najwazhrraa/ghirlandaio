@@ -1,6 +1,5 @@
 # Resume Materi Hubungan Sains dan Agama
-Nama: Khairunnisa Candra Pramesti
-NIM: 12402051030090
+
 Menjawab pertanyaan dari kelompok 1 yaitu "Apa Pandangan Ekstrem Kedua Tentang Hubungan Sains dan Agama?"
 ---
 
