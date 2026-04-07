@@ -32,7 +32,7 @@ Assalamualaikum Warahmatullahi Wabarakatuh.
 Alhamdulillah kami haturkan puja dan puji syukur ke hadirat Allah SWT. atas karunia dan segala rahmat-Nya sehingga kami dapat menyelesaikan makalah ini dengan baik. Shalawat serta salam semoga terlimpah curahkan kepada baginda tercinta kami yaitu Nabi Muhammad SAW. yang kita nanti-nantikan syafa'atnya di akhirat nanti.
 
 <p align="justify">
-Kami mengucapkan syukur kepada Allah SWT. atas limpahan nikmat sehat-Nya, baik itu berupa sehat fisik maupun akal pikiran, sehingga kami mampu menyelesaikan penyusunan makalah ini  dengan judul "Evolusi Hubungan Negara, Swasta, dan Teknologi (1960-Sekarang): Peran _Hacking Culture_ serta _Open_ dan _Closed Source_." Makalah ini disusun untuk untuk memenuhi penilaian tugas dari mata kuliah Perpustakaan dan Kearsipan Digital.
+Kami mengucapkan syukur kepada Allah SWT. atas limpahan nikmat sehat-Nya, baik itu berupa sehat fisik maupun akal pikiran, sehingga kami mampu menyelesaikan penyusunan makalah ini  dengan judul "Evolusi Hubungan Negara, Swasta, dan Teknologi (1960-Sekarang): Peran Hacking Culture serta Open dan Closed Source." Makalah ini disusun untuk untuk memenuhi penilaian tugas dari mata kuliah Perpustakaan dan Kearsipan Digital.
 </p>
 <p align="justify">
 Makalah ini telah kami susun dengan maksimal dan mendapatkan bantuan dari berbagai pihak sehingga dapat memperlancar pembuatan makalah ini. Untuk itu kami menyampaikan banyak terima kasih kepada Bapak Al-Muhdil Karim, S.IP., M.Hum. selaku dosen Perpustakaan dan Kearsipan Digital dan semua pihak yang telah berkontribusi dalam penyusunan makalah ini. Dalam penyusunan makalah ini, kami menyadari bahwa makalah ini masih jauh dari kata sempurna. Sehingga kami selaku penyusun sangat mengharapkan kritik dan saran yang membangun dari pembaca sekalian. Akhir kata semoga makalah ini dapat memberikan manfaat untuk kelompok kami khususnya, dan para pembaca.
@@ -52,10 +52,15 @@ Makalah ini telah kami susun dengan maksimal dan mendapatkan bantuan dari berbag
 **1.2. Rumusan Masalah**
 <p align="justify">
 1. Bagaimana pola hubungan antara negara dan teknologi pada rentang tahun 1960-sekarang?
+<br>
 2. Bagaimana pola hubungan antara swasta dan teknologi pada rentang tahun 1960-sekarang?
+<br>
 3. Bagaimana implementasi dan kontribusi hacking culture dalam pengembangan teknologi modern?
+<br>
 4. Jelaskan sejarah dan pola hubungan antara kode sumber terbuka dan kode sumber tertutup rentang tahun 1970-an sampai sekarang!
+<br>
 5. Jelaskan sikap anda terhadap kode sumber terbuka dan kode sumber tertutup!
+<br>
 6. Jelaskan hubungan antara kode sumber terbuka dan kode sumber tertutup dengan ideologi!
 </p>
 
@@ -76,8 +81,18 @@ Makalah ini telah kami susun dengan maksimal dan mendapatkan bantuan dari berbag
 **<p align="center">PEMBAHASAN</P>**
 
 **2.1. Pola Hubungan antara Negara dan Teknologi pada Rentang Tahun 1960-Sekarang**
-
-
+<p align="justify">
+Dalam buku Troublemakers: Silicon Valley Coming of Age, pada tahun 1960, awalnya teknologi sangat bergantung pada negara, terutama departemen pertahanan atau militer melalui lembaga ARPA (Advanced Research Projects Agency) yang dibentuk pada tahun 1958 memberikan dana yang besar untuk penelitian seperti ARPANET (Advanced Research Project Agency Network) yaitu jaringan awal sebuah internet yang diteliti oleh Bob Taylor.
+</p>
+<p align="justify">
+Tidak hanya bekerja sama dengan negara tetapi pada tahun 1970-an universitas juga bergabung dengan cara mendanai para ilmuwan dan memfasilitasi laboratorium karena itu teknologi mulai berkembang dari riset menjadi inovasi nyata, contohnya sperti universitas yang mulai mengubah penelitian menjadi komersial dan ARPANET yang mulai menghubungkan ke kampus-kampus. JAdi, pada tahun ini negara mulai berkolaborasi dengan akademisi dengan menggunakan penelitian melalui para ilmuwan.
+</p>
+<p align="justify">
+Pada tahun transisi 1979-1984 Teknologi mulai dikomersilkan oleh negara kepada perusahaan swasta seperti Apple, Atari, dll. Muncul inverstor, venture capital, dan startup. Meskipun awalmya negara berperan sebagai pengendali tetapi pada masa ini peran negra berubah, menjadi pendukung  dan regulator yang memberikan aturan atau ketentuan. 
+<p align="justify">
+Pada masa sekarang lembaga ARPA berubah menjadi DARPA (Defense Advanced Projects Agency) pada tahun 1972. Bertambahnya kata "defense" yaitu untuk melakukan penelitian tingkat tinggi untuk pertahanan. Industri teknologi sangat berpengaruh secara ekonomi dan juga kuat secara politik, perusahaan teknologi mengeluarkan biaya besar untuk melobi pemerintah. Karena itu negara dan teknologi keduanya saling bergantungan menjadi hubungan dua arah. Negara membutuhkan teknologi juga membutuhkan negara.
+</p>
+  
 **2.2. Pola Hubungan antara Swasta dan Teknologi pada Rentang Tahun 1960-Sekarang**
 
 
